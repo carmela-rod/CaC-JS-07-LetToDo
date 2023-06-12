@@ -29,9 +29,9 @@ const renderTareas = () => {
             <tr>
                 <td>${tarea.text}</td>
                 <td>    
-                <button>Completar</button>
-                <button>Editar</button>
-                <button>Borrar</button>
+                <button> Completar</button>
+                <button> Editar</button>
+                <button> Borrar</button>
                 </td>
             </tr>   
             `)
